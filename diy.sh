@@ -10,7 +10,9 @@
 git clone https://github.com/tzxiaozhen88/luci-app-koolproxyR.git package/luci-app-koolproxyR
 git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
 git clone https://github.com/honwen/luci-app-aliddns.git package/luci-app-aliddns
-git clone https://github.com/Apocalypsor/luci-app-smartdns.git package/luci-app-smartdns
+#git clone https://github.com/Apocalypsor/luci-app-smartdns.git package/luci-app-smartdns
 git clone https://github.com/Lienol/openwrt-package.git package/Lienol
+#================================================= 主题
+git clone https://github.com/Leo-Jo-My/luci-theme-opentomcat.git package/luci-theme-opentomcat
 
 
