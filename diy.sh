@@ -14,6 +14,7 @@ git clone https://github.com/honwen/luci-app-aliddns.git package/luci-app-aliddn
 git clone https://github.com/Lienol/openwrt-package.git package/Lienol
 git clone https://github.com/frainzy1477/luci-app-clash.git package/luci-app-clash
 svn co https://github.com/pkpkgtr1/pkpkgtr-openwrt-package/trunk/luci-app-advancedsetting package/luci-app-advancedsetting
+svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-theme-atmaterialg package/luci-theme-atmaterial
 #================================================= 主题
 git clone https://github.com/Leo-Jo-My/luci-theme-opentomcat.git package/luci-theme-opentomcat
 
