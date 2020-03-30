@@ -17,6 +17,6 @@ svn co https://github.com/pkpkgtr1/pkpkgtr-openwrt-package/trunk/luci-app-advanc
 
 #================================================= 主题
 svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-theme-opentomcat package/luci-theme-opentomcat
-svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-theme-atmaterialg package/luci-theme-atmaterial
+git clone https://github.com/openwrt-develop/luci-theme-atmaterial.git package/luci-theme-atmaterial
 
 
