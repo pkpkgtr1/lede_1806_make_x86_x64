@@ -13,6 +13,7 @@ git clone https://github.com/honwen/luci-app-aliddns.git package/luci-app-aliddn
 #git clone https://github.com/Apocalypsor/luci-app-smartdns.git package/luci-app-smartdns
 git clone https://github.com/pkpkgtr1/openwrt-package.git package/Lienol
 git clone https://github.com/frainzy1477/luci-app-clash.git package/luci-app-clash
+git clone https://github.com/fw876/helloworld.git package/helloworld
 svn co https://github.com/pkpkgtr1/pkpkgtr-openwrt-package/trunk/luci-app-advancedsetting package/luci-app-advancedsetting
 
 #================================================= 主题
