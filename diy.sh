@@ -16,7 +16,8 @@ git clone https://github.com/xiaorouji/openwrt-package.git package/Lienol
 #git clone https://github.com/frainzy1477/luci-app-clash.git package/luci-app-clash
 #git clone https://github.com/fw876/helloworld.git package/helloworld
 svn co https://github.com/pkpkgtr1/pkpkgtr-openwrt-package/trunk/luci-app-advancedsetting package/luci-app-advancedsetting
-svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-app-ssr-plus package/luci-app-ssr-plus
+#svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-app-ssr-plus package/luci-app-ssr-plus
+git clone https://github.com/fw876/helloworld.git package/helloworld
 git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git package/jerrykuku
 git clone https://github.com/jerrykuku/node-request.git  package/node-request
 
