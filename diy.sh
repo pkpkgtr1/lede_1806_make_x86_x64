@@ -26,3 +26,6 @@ svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-theme-opentomcat p
 git clone https://github.com/openwrt-develop/luci-theme-atmaterial.git package/luci-theme-atmaterial
 
 
+sed -i 's/1.14/1.15/g' feeds/packages/lang/golang/golang/Makefile
+sed -i 's/=4/=2/g' feeds/packages/lang/golang/golang/Makefile
+sed -i 's/7011af3bbc2ac108d1b82ea8abb87b2e63f78844f0259be20cde4d42c5c40584/28bf9d0bcde251011caae230a4a05d917b172ea203f2a62f2c2f9533589d4b4d/g' feeds/packages/lang/golang/golang/Makefile
