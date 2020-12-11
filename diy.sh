@@ -11,7 +11,7 @@ git clone https://github.com/project-openwrt/luci-app-koolproxyR.git package/luc
 git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
 git clone https://github.com/honwen/luci-app-aliddns.git package/luci-app-aliddns
 git clone -b master https://github.com/vernesong/OpenClash package/OpenClash
-git clone https://github.com/xiaorouji/openwrt-package.git package/Lienol
+#git clone https://github.com/xiaorouji/openwrt-package.git package/Lienol
 svn co https://github.com/pkpkgtr1/pkpkgtr-openwrt-package/trunk/luci-app-advancedsetting package/luci-app-advancedsetting
 git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git package/jerrykuku
 
