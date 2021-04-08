@@ -19,7 +19,7 @@ svn co https://github.com/OpenWrt-Actions/openwrt-package-lienol/trunk/package p
 #svn co https://github.com/pkpkgtr1/pkpkgtr-openwrt-package/trunk/luci-app-advancedsetting package/luci-app-advancedsetting
 git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git package/jerrykuku
 #科学上网依赖
-git clone git clone https://github.com/kenzok8/small.git package/small
+git clone https://github.com/kenzok8/small.git package/small
 
 #================================================= 主题
 svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-theme-opentomcat package/luci-theme-opentomcat
