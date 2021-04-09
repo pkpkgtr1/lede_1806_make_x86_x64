@@ -15,7 +15,7 @@ git clone https://github.com/kenzok8/openwrt-packages.git package/kenzok8
 #svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-app-ssr-plus package/kenzok8/luci-app-ssr-plus
 #svn co https://github.com/kenzok8/openwrt-packages/trunk/tcping package/kenzok8/tcping
 #svn co https://github.com/kenzok8/openwrt-packages/trunk/naiveproxy package/kenzok8/naiveproxy
-svn co https://github.com/OpenWrt-Actions/openwrt-package-lienol/trunk/package package/lienol
+#svn co https://github.com/OpenWrt-Actions/openwrt-package-lienol/trunk/package package/lienol
 #svn co https://github.com/pkpkgtr1/pkpkgtr-openwrt-package/trunk/luci-app-advancedsetting package/luci-app-advancedsetting
 git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git package/jerrykuku
 #科学上网依赖
